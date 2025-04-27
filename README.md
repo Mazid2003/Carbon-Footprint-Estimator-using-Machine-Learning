@@ -14,7 +14,6 @@ This project aims to predict the carbon footprint of various activities and eval
 
 Make sure to have Python installed on your system. You also need to install the following Python libraries:
 
-```
 pip install pandas scikit-learn
 
 Clone the Repository
