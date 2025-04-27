@@ -8,7 +8,7 @@ This project aims to predict the carbon footprint of various activities and eval
 - **R² Score Calculation**: Calculates the R² score (coefficient of determination) to evaluate how well the prediction model is performing.
 - **Final Score Calculation**: A custom formula is used to calculate the final prediction score, which is scaled between 0 and 100.
 
-## Installation
+## Project folder Structure
 ```
 carbon-footprint-prediction/
 │
