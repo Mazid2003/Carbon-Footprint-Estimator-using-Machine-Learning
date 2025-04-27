@@ -10,6 +10,25 @@ This project aims to predict the carbon footprint of various activities and eval
 
 ## Installation
 
+carbon-footprint-prediction/
+│
+├── data/
+│   ├── train_values.csv
+│   ├── test_values.csv      # CSV with actual carbon footprint values
+│   └── your_submission.csv         # CSV with predicted carbon footprint values
+│
+├── scripts/
+│   └── carbon_footprint_evaluation.py  # Python script to merge, calculate R² and score
+│
+├── templates/
+    └── index.html
+├── app.py
+├── train.ipynb
+├── README.md                       # Project overview and instructions
+├── requirements.txt                # List of required Python packages
+└── LICENSE                         # License file (MIT License or any)
+
+
 ### Prerequisites
 
 Make sure to have Python installed on your system. You also need to install the following Python libraries:
