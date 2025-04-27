@@ -9,7 +9,7 @@ This project aims to predict the carbon footprint of various activities and eval
 - **Final Score Calculation**: A custom formula is used to calculate the final prediction score, which is scaled between 0 and 100.
 
 ## Installation
-
+```
 carbon-footprint-prediction/
 │
 ├── data/
@@ -27,7 +27,7 @@ carbon-footprint-prediction/
 ├── README.md                       # Project overview and instructions
 ├── requirements.txt                # List of required Python packages
 └── LICENSE                         # License file (MIT License or any)
-
+```
 
 ### Prerequisites
 
