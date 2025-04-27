@@ -68,9 +68,10 @@ R² Score: 0.85
 Final Score: 85
 
 **Screenshots**
+![screenshot_2025-04-27_22-03-19](https://github.com/user-attachments/assets/ceb357af-d54e-4c03-85ba-14842629237b)
 
 ![screenshot_2025-04-27_22-01-52](https://github.com/user-attachments/assets/584c06c7-3649-48cb-a9f9-5ff98a41f50a)
-![screenshot_2025-04-27_22-03-19](https://github.com/user-attachments/assets/ceb357af-d54e-4c03-85ba-14842629237b)
+
 ![screenshot_2025-04-27_22-02-20](https://github.com/user-attachments/assets/ab1bf3bd-7ea9-4c80-9c63-ce8d1e659020)
 
 
