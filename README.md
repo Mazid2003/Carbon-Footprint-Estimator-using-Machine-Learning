@@ -102,11 +102,15 @@ Visualize the R² score and other evaluation metrics with charts.
 
 Use real-time data sources to predict carbon footprints dynamically based on various activities.
 
-**💬 Want to Collaborate?**
+**💬 Want to Collaborate and 🤝 Contributing?**
 
-🔥 Fork the repo, play the game, and contribute!
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
+and fork the repo, submit PRs, and give your feedback! 🔥💡
 
 **📜 License**
 
 This project is open-source under the MIT License. Feel free to use and modify it! 🚀
+
+
 
