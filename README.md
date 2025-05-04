@@ -115,7 +115,9 @@ This project is open-source under the MIT License. Feel free to use and modify i
 **📬 Contact**
 
 Created by Mohammad Mazid
+
 Email:mazidmd750@gmail.com
+
 Linkedin: https://www.linkedin.com/in/mohammadmazid
 
 
